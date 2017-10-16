@@ -1,5 +1,3 @@
-/* TitlePane */
-.claro .dijitTitlePaneRtl .dijitClosed .dijitArrowNode,
-.claro .dijitFieldsetRtl .dijitFieldsetTitleClosed .dijitArrowNode {
-  background-position: -7px 0;
+.nihilo .dijitTitlePaneRtl .dijitClosed .dijitArrowNode, .nihilo .dijitFieldsetRtl .dijitFieldsetTitleClosed .dijitArrowNode {
+	background-position: 0 top;
 }

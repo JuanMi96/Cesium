@@ -1,11 +1,9 @@
 /* Editor */
-.claro .dijitEditorRtl .dijitEditorIFrameContainer {
-  padding: 3px 10px 1px 3px;
+.dijitRtl .nihilo .dijitEditorIcon {
+	background-image: url('../../icons/images/editorIconsEnabled_rtl.png'); /* editor icons sprite image - enabled state */
 }
-.dj_ie6 .claro .dijitEditorRtl .dijitEditorIFrameContainer,
-.dj_ie7 .claro .dijitEditorRtl .dijitEditorIFrameContainer,
-.dj_ie8 .claro .dijitEditorRtl .dijitEditorIFrameContainer {
-  padding: 3px 0px 1px 10px;
-  margin-right: 0px;
-  border: 0px solid #d3d3d3;
+.dijitRtl .nihilo .dijitDisabled .dijitEditorIcon {
+	background-image: url('../../icons/images/editorIconsDisabled_rtl.png'); /* editor icons sprite image - disabled state */
 }
+
+
