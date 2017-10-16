@@ -1,8 +1,8 @@
-# dojo
+# dijit
 
-**dojo** is the foundation package of the Dojo Toolkit. Sometimes referred to as the “core”, it contains the most
-generally applicable sub-packages and modules. The dojo package covers a wide range of functionality like AJAX, DOM
-manipulation, class-type programming, events, promises, data stores, drag-and-drop and internationalization libraries.
+**dijit** is the package that contains the widget library for Dojo Toolkit.  It requires the [core][] of the Dojo
+Toolkit and provides a framework for building additional widgets as well as a full set of rich user interface widgets
+including form, layout and data-aware items.
 
 ## Installing
 
@@ -10,7 +10,7 @@ Installation instructions are available at [dojotoolkit.org/download][download].
 
 ## Getting Started
 
-If you are starting out with Dojo, the following resources are available to you:
+If you are starting out with Dojo and Dijit, the following resources are available to you:
 
 * [Tutorials][]
 * [Reference Guide][]
@@ -23,6 +23,7 @@ The Dojo Toolkit (including this package) is dual licensed under BSD 3-Clause an
 license please see the [License Information][].  The Dojo Toolkit is Copyright (c) 2005-2013, The Dojo Foundation.  All
 rights reserved.
 
+[core]: https://github.com/dojo/dojo
 [download]: http://dojotoolkit.org/download/
 [Tutorials]: http://dojotoolkit.org/documentation/
 [Reference Guide]: http://dojotoolkit.org/reference-guide/
